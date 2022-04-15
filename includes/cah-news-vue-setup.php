@@ -59,6 +59,7 @@ final class CAHNewsVueSetup
                 'wpVars',
                 [
                     'restUri' => CAH_NEWS__BASE_URL . "wp-json/wp/v2",
+                    'wpNonce' => wp_create_nonce('cah-news'),
                 ]
             );
             wp_enqueue_style(static::$handle . "-vue-style");
@@ -106,5 +107,15 @@ final class CAHNewsVueSetup
         <div id="cah-news-app"></div>
         <?php
         return ob_get_clean();
+    }
+
+    public static function ajax()
+    {
+        if (!isset($_POST['wpNonce'])
+            || empty($_POST['wpNonce'])
+            || !check_ajax_referer('cah-news', 'wpNonce')
+        ) {
+            die("Nonce failed to verify");
+        }
     }
 }
