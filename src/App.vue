@@ -1,26 +1,26 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="container">
+    <h2 class="h1 mb-3">{{ store.state.section_title }}</h2>
+    <NewsDisplay />
+    <a :href="store.state.button_href" target="_blank" rel="noopener" class="btn btn-primary mt-2">{{ store.state.button_text }}</a>
+  </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<script setup>
+import {onMounted} from 'vue'
+import {useStore} from 'vuex'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+import NewsDisplay from './components/NewsDisplay.vue'
+
+const store = useStore()
+
+onMounted(() => {
+  store.dispatch('doInit')
+})
 </script>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+h2 {
+  text-transform: uppercase;
 }
 </style>

@@ -1,0 +1,1165 @@
+[
+    {
+        "id": 11010,
+        "date": "2022-04-13T14:13:39",
+        "date_gmt": "2022-04-13T18:13:39",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=11010"
+        },
+        "modified": "2022-04-13T14:13:39",
+        "modified_gmt": "2022-04-13T18:13:39",
+        "slug": "orlando-sentinel-limbitless-solutions-at-ucf-launches-kids-bionic-arm-research",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/orlando-sentinel-limbitless-solutions-at-ucf-launches-kids-bionic-arm-research\/",
+        "title": {
+            "rendered": "Orlando Sentinel: Limbitless Solutions at UCF Launches Kids&#8217; Bionic Arm Research"
+        },
+        "content": {
+            "rendered": "<p>&#8220;For eight years, the University of Central Florida\u2019s Limbitless Solutions has been on the cutting edge of outfitting children who have lost limbs with new 3-D printed bionic prosthetics that revolutionize their lives. Now, the organization is reaching for the next level of that mission, partnering with children\u2019s hospitals to research the effect of these devices on young patients\u2019 brains.&#8221;<\/p>\n<p>\u201cThe idea for this study came about several years ago and we proposed it to the hospital after presenting it at a conference,\u201d said Albert Manero, president of Limbitless Solutions. \u201cThey were so receptive to being able to do this type of work, and it really is a cutting edge look at the brain and how it evolves from using prosthetics.\u201d<\/p>\n<p>&#8220;This research is also reinforcing the organization\u2019s previous partnership with UCF\u2019s School of Visual Arts and Design and the Nicholson School of Communication and Media, as participants will use training video games to learn how to use their prosthetics during the study.&#8221;<\/p>\n<p><a href=\"https:\/\/www.orlandosentinel.com\/health\/os-ne-health-limbitless-bounds-ucf-study-20220412-vardvzqlzjcxznozzkx3nejjmu-story.html\">Click here to read the full story from\u00a0the <em>Orlando Sentinel<\/em>.<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "Limbitless Solutions is partnering with children\u2019s hospitals to research the effect bionic prosthetics devices on young patients\u2019 brains.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/limbitless.png",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            95
+        ],
+        "tags": [],
+        "dept": [
+            99,
+            81
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/11010"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/11010\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 11012,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/11010\/revisions\/11012"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/11011"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=11010"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=11010"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=11010"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=11010"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10992,
+        "date": "2022-04-12T16:32:08",
+        "date_gmt": "2022-04-12T20:32:08",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10992"
+        },
+        "modified": "2022-04-14T15:31:24",
+        "modified_gmt": "2022-04-14T19:31:24",
+        "slug": "photo-exhibition2022",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/photo-exhibition2022\/",
+        "title": {
+            "rendered": "Graduating Photography Students Exhibit Thesis Work"
+        },
+        "content": {
+            "rendered": "<p>The seniors in the B.S. Photography program at the University of Central Florida present, <em>A Piece of Us<\/em>, their graduation exhibition, opening April 21 at Gallery 500 in One Daytona, 1870 Victory Circle, Daytona Beach, FL, 32114. The opening reception runs from 5 \u2013 8 p.m. on April 21, and the exhibition closes May 5.<\/p>\n<p>As part of their Museum and Gallery Practices class, the students collaboratively produce an exhibition featuring their thesis work, which is the culmination of four years of study. Aaron Cleveland, Eli Dreyfuss, Tina Olko, Alexis Quesada, and Raphael Seabra have produced a wide variety of photographic work in disciplines ranging from portraits to alternative processes.<\/p>\n<p>The University of Central Florida and Daytona State College along with the Southeast Museum of Photography are partners in an A.S. to B.S. photography program, forming a consortium known as the Southeast Center for Photographic Studies.<\/p>\n<p>&nbsp;<\/p>\n<figure id=\"attachment_10991\" class=\"figure\"><a href=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Alexis.QuesadaPrint.jpg\"><img class=\"figure-img  img-fluid size-medium wp-image-10991\" src=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Alexis.QuesadaPrint-232x300.jpg\" alt=\"\" srcset=\"https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Alexis.QuesadaPrint-232x300.jpg 232w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Alexis.QuesadaPrint.jpg 556w\" sizes=\"(max-width: 232px) 100vw, 232px\" \/><\/a><figcaption class=\"figure-caption\">Featured image: Alexis Quesada<\/figcaption><\/figure>\n<p>&nbsp;<\/p>\n<figure id=\"attachment_10996\" class=\"figure\"><a href=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Eli-Dreyfuss-Print-photo-1.jpg\"><img class=\"figure-img  img-fluid wp-image-10996\" src=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Eli-Dreyfuss-Print-photo-1-300x200.jpg\" alt=\"\" srcset=\"https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Eli-Dreyfuss-Print-photo-1-300x200.jpg 300w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Eli-Dreyfuss-Print-photo-1-768x512.jpg 768w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Eli-Dreyfuss-Print-photo-1.jpg 864w\" sizes=\"(max-width: 298px) 100vw, 298px\" \/><\/a><figcaption class=\"figure-caption\">Featured image: Eli Dreyfuss<\/figcaption><\/figure>\n<p>&nbsp;<\/p>\n<figure id=\"attachment_10997\" class=\"figure\"><a href=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version.jpg\"><img class=\"figure-img  img-fluid wp-image-10997\" src=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version-240x300.jpg\" alt=\"\" srcset=\"https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version-240x300.jpg 240w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version-768x960.jpg 768w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version-819x1024.jpg 819w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version-1199x1500.jpg 1199w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Tina.Olko_.Solitude-Tree-lighter-version.jpg 1200w\" sizes=\"(max-width: 255px) 100vw, 255px\" \/><\/a><figcaption class=\"figure-caption\">Featured image: Tina Olko<\/figcaption><\/figure>\n<p>&nbsp;<\/p>\n<figure id=\"attachment_10995\" class=\"figure\"><a href=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Raphael.Seabra_Print.jpg\"><img class=\"figure-img  img-fluid wp-image-10995\" src=\"http:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Raphael.Seabra_Print-300x297.jpg\" alt=\"\" srcset=\"https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Raphael.Seabra_Print-300x297.jpg 300w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Raphael.Seabra_Print-768x760.jpg 768w, https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Raphael.Seabra_Print.jpg 910w\" sizes=\"(max-width: 261px) 100vw, 261px\" \/><\/a><figcaption class=\"figure-caption\">Featured image: Raphael Seabra<\/figcaption><\/figure>\n<p>&nbsp;<\/p>\n<p><strong>Contact information:<\/strong><\/p>\n<p>UCF Art Office<\/p>\n<p>Phone: 407.823.2676 (SVAD)<\/p>\n<p>Email: <a href=\"mailto:apieceofus22@gmail.com\">apieceofus22@gmail.com<\/a><\/p>\n<p>Instagram: <a href=\"https:\/\/www.instagram.com\/apieceofus22\/\" target=\"_blank\" rel=\"noopener\">@apieceofus22<\/a><\/p>\n<hr \/>\n<p style=\"text-align: left\"><em>To learn more about the UCF School of Visual Arts and Design\u2019s offerings, visit:\u00a0<a href=\"https:\/\/svad.cah.ucf.edu\/\">svad.cah.ucf.edu<\/a><\/em><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "The seniors in the B.S. Photography program at the University of Central Florida present, &#8220;A Piece of Us,&#8221; their graduation exhibition.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Aaron.ClevelandPrintJPEG-1.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            97
+        ],
+        "tags": [],
+        "dept": [
+            81
+        ],
+        "acf": [],
+        "approved": 0,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10992"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/151"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10992\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 11014,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10992\/revisions\/11014"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10998"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10992"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10992"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10992"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10992"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10979,
+        "date": "2022-04-12T14:08:53",
+        "date_gmt": "2022-04-12T18:08:53",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10979"
+        },
+        "modified": "2022-04-12T14:08:53",
+        "modified_gmt": "2022-04-12T18:08:53",
+        "slug": "nsm-today-ucfs-kappa-pi-society-offers-artists-a-home-on-campus",
+        "status": "publish",
+        "type": "news",
+        "link": "http:\/\/www.nicholsonstudentmedia.com\/life\/ucfs-kappa-pi-society-offers-artists-a-home-on-campus\/article_2f4d5e28-8f66-11ec-9d14-e7d29d4acf1f.html",
+        "title": {
+            "rendered": "NSM Today: UCF&#8217;s Kappa Pi Society Offers Artists a Home On Campus"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "UCF\u2019s chapter of the Kappa Pi International Art Society is an eclectic mix of art, film and photography majors who share a love for the visual arts.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/ezgif.com-gif-maker-1.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "http:\/\/www.nicholsonstudentmedia.com\/life\/ucfs-kappa-pi-society-offers-artists-a-home-on-campus\/article_2f4d5e28-8f66-11ec-9d14-e7d29d4acf1f.html",
+            "_links_to_target": ""
+        },
+        "categories": [],
+        "tags": [],
+        "dept": [
+            99,
+            81
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10979"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10979\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10981,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10979\/revisions\/10981"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10980"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10979"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10979"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10979"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10979"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10966,
+        "date": "2022-04-12T13:53:51",
+        "date_gmt": "2022-04-12T17:53:51",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10966"
+        },
+        "modified": "2022-04-12T15:57:51",
+        "modified_gmt": "2022-04-12T19:57:51",
+        "slug": "raimundi-ortiz-manhattan-exhibition",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/raimundi-ortiz-manhattan-exhibition\/",
+        "title": {
+            "rendered": "ARTnews: SVAD Professor Selected to Showcase Work in Premiere Global Exhibition"
+        },
+        "content": {
+            "rendered": "<p>Associate Professor Wanda Raimundi-Ortiz was one of a group of select artists chosen to showcase their work as part of the first global exhibition dedicated to using clothing as a medium of visual art.<\/p>\n<p>\u201cGarmenting: Costume as Contemporary Art\u201d is being held at Manhattan\u2019s Museum of Arts and Design and centers around five themes: functionality, gender, activism, cultural differences, and performance.<\/p>\n<p>According to curator and\u00a0art historian Alexandra Schwartz, &#8220;So many of the artists are translating the meaning of their personal history, where they\u2019ve been, their place in this world, into these outfits.&#8221; More than just material, their artwork often represents the sacred power of cloth to protect, welcome, and empower.<\/p>\n<p><a href=\"https:\/\/www.artnews.com\/gallery\/art-news\/photos\/museum-of-arts-and-design-textile-art-survey-1234622256\/?fbclid=IwAR2grAUo0GP8sEaSgGMzTpWJqEAp02Ao_zugyAVmNM-7dzy5zoWpop9md28\" target=\"_blank\" rel=\"noopener\">Click here to read the full story from ARTnews<\/a><\/p>\n<hr \/>\n<p><em>ARTnews is the oldest and most widely circulated art magazine in the world.\u00a0<\/em><\/p>\n<p><em>Featured image:\u00a0<a href=\"https:\/\/www.artnews.com\/gallery\/art-news\/photos\/museum-of-arts-and-design-textile-art-survey-1234622256\/?fbclid=IwAR2grAUo0GP8sEaSgGMzTpWJqEAp02Ao_zugyAVmNM-7dzy5zoWpop9md28\" target=\"_blank\" rel=\"noopener\">Photograph by Jenna Bascom<\/a><\/em><\/p>\n<p><em>To learn more about the UCF School of Visual Arts and Design\u2019s offerings, visit:\u00a0<a href=\"https:\/\/svad.cah.ucf.edu\/\">svad.cah.ucf.edu<\/a><\/em><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "Associate Professor Wanda Raimundi-Ortiz was one of a group of select artists chosen to showcase their work as part of the first global exhibit dedicated to using clothing as a medium of visual art.",
+            "protected": false
+        },
+        "author": "Allison L.",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Screen-Shot-2022-04-08-at-11.06.32-AM.png",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            141
+        ],
+        "tags": [],
+        "dept": [
+            81
+        ],
+        "acf": [],
+        "approved": 0,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10966"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/151"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10966\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 11009,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10966\/revisions\/11009"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10967"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10966"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10966"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10966"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10966"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10963,
+        "date": "2022-04-08T12:55:48",
+        "date_gmt": "2022-04-08T16:55:48",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10963"
+        },
+        "modified": "2022-04-08T12:55:48",
+        "modified_gmt": "2022-04-08T16:55:48",
+        "slug": "wesh-2-ucf-celebrates-the-arts-makes-comeback-at-dr-phillips-center-with-shrek-the-musical",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/wesh-2-ucf-celebrates-the-arts-makes-comeback-at-dr-phillips-center-with-shrek-the-musical\/",
+        "title": {
+            "rendered": "WESH 2: UCF Celebrates the Arts Makes Comeback at Dr. Phillips Center with &#8216;Shrek: The Musical&#8217;"
+        },
+        "content": {
+            "rendered": "<p>&#8220;For the last two years, the pandemic has held back an enormous festival produced by University of Central Florida students who study the arts. This year, the 11-day festival known as UCF Celebrates the Arts is back and bigger than ever before.&#8221;<\/p>\n<p>&#8220;It&#8217;s an excellent opportunity to see what&#8217;s going on at UCF,&#8221; Jeff Moore, dean of the UCF College of Arts and Humanities, said.&#8221;<\/p>\n<p>&#8220;This year, more than 40 students are performing the musical &#8216;Shrek,&#8217; with 120 costumes designed. Kreidler works as a sound engineer and mixer for the show.&#8221;<\/p>\n<p>&#8220;So what you&#8217;re hearing is what I&#8217;m doing and honestly, it gives me adrenaline. And it&#8217;s one of my favorite feelings out there,&#8221; Kreidler said.&#8221;<\/p>\n<p><a href=\"https:\/\/www.wesh.com\/article\/ucf-celebrates-the-arts\/39665109\">Click here to read the full story from WESH 2.<\/a><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "This year, the 11-day festival known as UCF Celebrates the Arts is back and bigger than ever before.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Screen-Shot-2022-04-08-at-12.52.38-PM.png",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            97
+        ],
+        "tags": [],
+        "dept": [
+            99,
+            176,
+            112,
+            159,
+            94,
+            125,
+            81,
+            126
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10963"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10963\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10965,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10963\/revisions\/10965"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10964"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10963"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10963"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10963"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10963"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10960,
+        "date": "2022-04-08T12:50:08",
+        "date_gmt": "2022-04-08T16:50:08",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10960"
+        },
+        "modified": "2022-04-08T12:50:08",
+        "modified_gmt": "2022-04-08T16:50:08",
+        "slug": "thank-you-knight-nation-for-record-breaking-ucf-day-of-giving-2022",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/www.ucf.edu\/news\/thank-you-knight-nation-for-record-breaking-ucf-day-of-giving-2022\/",
+        "title": {
+            "rendered": "Thank You Knight Nation for Record-Breaking UCF Day of Giving 2022"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "\u201cWe asked for a \u2018little help from our friends\u2019 this year, and our friends delivered,\u201d says Jeff Moore, dean of the College of Arts and Humanities.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/TW-Feed-YouMadeABigSplash-1200x675.jpeg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "https:\/\/www.ucf.edu\/news\/thank-you-knight-nation-for-record-breaking-ucf-day-of-giving-2022\/",
+            "_links_to_target": ""
+        },
+        "categories": [
+            97
+        ],
+        "tags": [],
+        "dept": [
+            195,
+            99,
+            176,
+            112,
+            159,
+            94,
+            84,
+            125,
+            81,
+            100,
+            273,
+            132,
+            126
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10960"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10960\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10962,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10960\/revisions\/10962"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10961"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10960"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10960"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10960"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10960"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10956,
+        "date": "2022-04-07T13:34:39",
+        "date_gmt": "2022-04-07T17:34:39",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10956"
+        },
+        "modified": "2022-04-12T14:04:25",
+        "modified_gmt": "2022-04-12T18:04:25",
+        "slug": "using-the-arts-to-take-a-deep-dive-into-the-sea",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/www.ucf.edu\/news\/using-the-arts-to-take-a-deep-dive-into-the-sea\/",
+        "title": {
+            "rendered": "Using the Arts to Take a Deep Dive into the Sea"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "Pegasus Professor Stella Sung\u2019s composition &#8220;Oceana: Sounds of the Sea&#8221; will invite patrons at UCF Celebrates the Arts into a story they will never forget.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/UCF_Oceana_Annie-Crawley_1.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "https:\/\/www.ucf.edu\/news\/using-the-arts-to-take-a-deep-dive-into-the-sea\/",
+            "_links_to_target": ""
+        },
+        "categories": [
+            97
+        ],
+        "tags": [],
+        "dept": [
+            99,
+            176,
+            125,
+            81
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10956"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10956\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10958,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10956\/revisions\/10958"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10957"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10956"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10956"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10956"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10956"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10953,
+        "date": "2022-04-06T15:32:30",
+        "date_gmt": "2022-04-06T19:32:30",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10953"
+        },
+        "modified": "2022-04-06T15:32:30",
+        "modified_gmt": "2022-04-06T19:32:30",
+        "slug": "assistant-professor-of-english-named-2022-reach-for-the-stars-honoree",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/www.ucf.edu\/news\/ucf-reach-for-the-stars-2022-honorees-are-pioneers-in-their-fields-of-study\/",
+        "title": {
+            "rendered": "Assistant Professor of English Named 2022 Reach for the Stars Honoree"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "This year\u2019s honorees are using research to help create a brighter future \u2014 including Chrissy Kolaya, assistant professor of English.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Chrissy-Kolaya-1.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "https:\/\/www.ucf.edu\/news\/ucf-reach-for-the-stars-2022-honorees-are-pioneers-in-their-fields-of-study\/",
+            "_links_to_target": ""
+        },
+        "categories": [
+            141
+        ],
+        "tags": [
+            106
+        ],
+        "dept": [
+            99,
+            112
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10953"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10953\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10955,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10953\/revisions\/10955"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10954"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10953"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10953"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10953"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10953"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10929,
+        "date": "2022-04-06T15:24:56",
+        "date_gmt": "2022-04-06T19:24:56",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10929"
+        },
+        "modified": "2022-04-06T15:24:56",
+        "modified_gmt": "2022-04-06T19:24:56",
+        "slug": "2022-founders-day-awards-honor-excellence-in-the-arts-and-humanities",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/2022-founders-day-awards-honor-excellence-in-the-arts-and-humanities\/",
+        "title": {
+            "rendered": "2022 Founders\u2019 Day Awards Honor Excellence in the Arts and Humanities"
+        },
+        "content": {
+            "rendered": "<p>UCF College of Arts and Humanities faculty members were honored at the <a href=\"https:\/\/www.ucf.edu\/leadership\/president\/wp-content\/uploads\/sites\/2\/2022\/04\/2022_Founders-Day-Program_Digital.pdf\">2022 Founders\u2019 Day Honors Convocation<\/a> on Wednesday, April 6. The annual ceremony honors UCF faculty and students for excellence across departments and disciplines. In recognition of outstanding teaching, advising, mentoring, research, professional service, librarianship and\u00a0instruction, faculty are awarded research funding and encouragement to pursue their professional endeavors at the university.<\/p>\n<p>This year,\u00a0more than 20 arts and humanities faculty\u00a0were honored at the ceremony. Chrissy Kolaya was honored with a Reach for the Stars award,\u00a0which recognizes highly successful research and creative activity accomplished by early-career university professionals. Anne Bubriski, lecturer of women&#8217;s and gender studies and coordinator for the Young Women Leaders Program (YWLP) and Science Leadership and Mentoring (SLAM), was awarded the university award for excellence in professional service. A full list of faculty members who received college excellence awards or service awards is below.<\/p>\n<p>Founders\u2019 Day honors outstanding students as well. The dean of each college selects one undergraduate student every year to receive the Founders\u2019 Award for exceptional work within their area of study. Students are also acknowledged for their theses and dissertations. This year, Alexandra Smith was awarded the Founders\u2019 Day Award and Nicholas Odom received the Award for the Outstanding Honors Undergraduate Thesis for the College of Arts and Humanities.<\/p>\n<p>The full list of 2022 Founders\u2019 Day honorees from CAH include:<\/p>\n<p><a href=\"https:\/\/www.ucf.edu\/news\/ucf-reach-for-the-stars-2022-honorees-are-pioneers-in-their-fields-of-study\/\"><strong>Reach for the Stars Award<\/strong><\/a><\/p>\n<ul>\n<li>Chrissy Kolaya (English)<\/li>\n<\/ul>\n<p><strong>The University Award for Excellence in Mentoring Doctoral Students<\/strong><\/p>\n<ul>\n<li>Mel Stanfill (English)<\/li>\n<\/ul>\n<p><strong>The College Award for Excellence in Graduate Teaching<\/strong><\/p>\n<ul>\n<li>Anastasia Salter (Texts &amp; Technology)<\/li>\n<\/ul>\n<p><strong>The College Award for Excellence in Professional Service<\/strong><\/p>\n<ul>\n<li>Anne Bubriski (Women&#8217;s &amp; Gender Studies)<\/li>\n<\/ul>\n<p><strong>The College Award for Excellence in Research<\/strong><\/p>\n<ul>\n<li>Jonathan Beever (Philosophy)<\/li>\n<\/ul>\n<p><strong>The College Award for Excellence in Faculty Academic Advising<\/strong><\/p>\n<ul>\n<li>Luis Mart\u00ednez-Fernandez (History)<\/li>\n<\/ul>\n<p><strong>The College Award for Excellence in Undergraduate Teaching<\/strong><\/p>\n<ul>\n<li>Elizabeth Horn (School of Performing Arts)<\/li>\n<li>Farrah Cato (English)<\/li>\n<li>Tison Pugh (English)<\/li>\n<li>Brandy Dieterle (English)<\/li>\n<\/ul>\n<p><iframe width=\"500\" height=\"281\" src=\"https:\/\/www.youtube.com\/embed\/CoaoX7Tb1tA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe><\/p>\n<p><strong>Professor Emeritus<\/strong><\/p>\n<ul>\n<li>John &#8220;Rick&#8221; Schell (English and Writing &amp; Rhetoric)<\/li>\n<\/ul>\n<p><strong>20-Year Service Awards<\/strong><\/p>\n<ul>\n<li>Belinda Boyd (School of Performing Arts)<\/li>\n<li>Jason Burrell (School of Visual Arts &amp; Design)<\/li>\n<li>Farida Cato (English)<\/li>\n<li>Victor Davila (School of Visual Arts &amp; Design)<\/li>\n<li>Virginia Ludwig (Modern Languages &amp; Literatures)<\/li>\n<li>Maria Montalvo (Modern Languages &amp; Literatures)<\/li>\n<li>Blake J. Scott (Writing &amp; Rhetoric)<\/li>\n<li>John Shafer (School of Performing Arts)<\/li>\n<li>Maria Spina (Modern Languages &amp; Literatures)<\/li>\n<li>Sybil St. Claire (School of Performing Arts)<\/li>\n<li>Michael Strawser (Philosophy)<\/li>\n<li>Robert Thornton (School of Performing Arts)<\/li>\n<li>Scott Warfield (School of Performing Arts)<\/li>\n<\/ul>\n<p><strong>50-Year Service Awards<\/strong><\/p>\n<ul>\n<li>Donald Jones (Philosophy)<\/li>\n<\/ul>\n<p><strong>Student Awards<\/strong><\/p>\n<ul>\n<li>Founders\u2019 Award\n<ul>\n<li>Alexandra Smith (English)<\/li>\n<\/ul>\n<\/li>\n<li>Award for Outstanding Honors Undergraduate Thesis\n<ul>\n<li>Nicholas Odom (Philosophy)<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "More than 20 arts and humanities faculty\u00a0were honored at this year&#8217;s Founders Day Honors Convocation.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/Founders-Day_0020-e1427919489961.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            141
+        ],
+        "tags": [
+            106
+        ],
+        "dept": [
+            99
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10929"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 6,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10929\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10952,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10929\/revisions\/10952"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10951"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10929"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10929"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10929"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10929"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 10943,
+        "date": "2022-04-06T11:07:45",
+        "date_gmt": "2022-04-06T15:07:45",
+        "guid": {
+            "rendered": "http:\/\/news.cah.ucf.edu\/?post_type=news&#038;p=10943"
+        },
+        "modified": "2022-04-06T11:07:45",
+        "modified_gmt": "2022-04-06T15:07:45",
+        "slug": "broadway-world-dr-phillips-center-for-the-performing-arts-to-welcome-back-ucf-celebrates-the-arts-2022",
+        "status": "publish",
+        "type": "news",
+        "link": "https:\/\/news.cah.ucf.edu\/news\/broadway-world-dr-phillips-center-for-the-performing-arts-to-welcome-back-ucf-celebrates-the-arts-2022\/",
+        "title": {
+            "rendered": "Broadway World: Dr. Phillips Center for the Performing Arts to Welcome Back UCF Celebrates the Arts 2022"
+        },
+        "content": {
+            "rendered": "<p>&#8220;This week, Dr. Phillips Center for the Performing Arts welcomes back UCF Celebrates the Arts 2022 for their 10-day residency from April 5-16, showcasing the creativity, innovation and collaboration that defines Orlando&#8217;s hometown university. The annual festival brings musicians, theater practitioners and visual artists from the UCF campus to the Central Florida community in an array of offerings including jazz, dance, musical theater, opera, symphony, bands, visual arts, talks, choirs, family events and more.&#8221;<\/p>\n<p>&#8220;We are so thrilled to see the building alive again with some of our region&#8217;s most talented and creative students,&#8221; said Kathy Ramsberger, Dr. Phillips Center president and ceo. &#8220;This season, students will also have the opportunity to experience live, professional performances in Steinmetz Hall, one of the greatest concert halls in the world, right in the heart of downtown Orlando.&#8221;<\/p>\n<p>&#8220;Tickets are available at\u00a0<a href=\"http:\/\/drphillipscenter.org\/\" target=\"newwinddow\">drphillipscenter.org<\/a>. A goal of UCF Celebrates the Arts has always been to keep the festival accessible to all. Several events are free (registration required) and for ticketed events, pricing starts at $15. Student pricing is available with valid ID from any K-12 school or college.&#8221;<\/p>\n<p>Click here to read the full story from\u00a0<a href=\"https:\/\/www.broadwayworld.com\/orlando\/article\/Dr-Phillips-Center-for-the-Performing-Arts-to-Welcome-Back-UCF-Celebrates-the-Arts-2022-20220404\"><em>Broadway World<\/em><\/a>.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "The annual festival brings musicians, theater practitioners and visual artists from the UCF campus to the Central Florida community in an array of offerings including jazz, dance, musical theater, opera, symphony, bands, visual arts, talks, choirs, family events and more.",
+            "protected": false
+        },
+        "author": "",
+        "featured_media": "https:\/\/news.cah.ucf.edu\/wp-content\/uploads\/2022\/04\/2022-UCF_CTA-Splash-16x9-1.jpg",
+        "template": "",
+        "meta": {
+            "_mi_skip_tracking": false,
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            97
+        ],
+        "tags": [],
+        "dept": [
+            99,
+            176,
+            112,
+            159,
+            125,
+            81,
+            126
+        ],
+        "acf": [],
+        "approved": 3,
+        "site_name": "CAH News",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10943"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/types\/news"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/users\/143"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10943\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 10945,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/news\/10943\/revisions\/10945"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media\/10944"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/media?parent=10943"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/categories?post=10943"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/tags?post=10943"
+                },
+                {
+                    "taxonomy": "dept",
+                    "embeddable": true,
+                    "href": "https:\/\/news.cah.ucf.edu\/wp-json\/wp\/v2\/dept?post=10943"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
