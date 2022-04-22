@@ -1,14 +1,14 @@
 /* eslint no-undef: 1 */
-/* eslint no-console: 1 */
 import { createStore } from 'vuex'
 
-//import axios from 'axios'
 import _ from 'lodash'
+import axios from 'axios'
 
 const state = {
   restUri: wpVars.restUri,
+  ajaxUrl: wpVars.ajaxUrl,
+  nonce: wpVars.wpNonce,
   news: {},
-  displayList: [],
   dept: 11,
   limit: -1,
   per_page: 20,
@@ -26,6 +26,16 @@ const state = {
 export default createStore({
   state,
   getters: {
+    displayList: state => {
+      return Object.values(state.news)
+        .sort((a, b) => {
+          const dateA = new Date(a.date)
+          const dateB = new Date(b.date)
+
+          return dateB - dateA
+        })
+        .map(item => item.id)
+    },
     getNewsItem: state => (id) => state.news[id],
   },
   mutations: {
@@ -47,31 +57,40 @@ export default createStore({
         commit('updateState', {name: key, value})
       }
     },
-    async getNews({state}) {
-      const url = state.restUri
-      console.log(url)
-      /*
-      let url = `${state.restUri}/news`
+    async getNews({commit, state}) {
+      const url = state.ajaxUrl
 
-      const queryArgs = {
-        dept: state.dept.join(','),
+      const dept = state.dept.length ? (Array.isArray(state.dept) ? state.dept.join(',') : state.dept) : ''
+
+      const options = {
+        dept,
         tags: state.tags,
-        limit: state.limit,
+        per_page: state.per_page,
       }
 
-      url += `?${Object.entries(queryArgs).filter(([,value]) => value?.length).map(([key, value]) => `${key}=${value}`).join('&')}`
-      const restResponse = await axios.get(url)
-        .then(response => response.data)
-        .catch(err => {console.error(err)})
+      const restRequest = _.escape(`${state.restUri}/news?${Object.entries(options).filter(([,value]) => (!isNaN(value) && value > 0) || ((isNaN(value) || Array.isArray(value)) && value?.length)).map(([key, value]) => `${key}=${value}`).join('&')}`)
 
-      console.log(restResponse)
-      */
+      const data = {
+        action: 'cah-news',
+        wpNonce: state.nonce,
+        restRequest,
+      }
+
+      const formData = new FormData()
+
+      for (const [key, value] of Object.entries(data)) {
+        formData.append(key, value)
+      }
+
+      const resp = await axios.post(url, formData)
+        .then(response => response.data)
+
+      commit('updateState', {name: 'news', value: resp})
     },
     async doInit({dispatch}) {
       await dispatch('getOptions')
       dispatch('getNews')
     },
   },
-  modules: {
-  }
+  modules: {}
 })

@@ -1,8 +1,6 @@
 <template>
     <div class="row">
-        <div v-for="(id, i) of store.state.displayList" :key="i" class="col">
-            <NewsItem :id="id" />
-        </div>
+        <NewsItem v-for="(id, i) of store.getters.displayList" :key="i" :id="id" />
     </div>
 </template>
 

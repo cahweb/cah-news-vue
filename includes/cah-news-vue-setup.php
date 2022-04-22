@@ -5,7 +5,7 @@ namespace CAH\News;
 
 final class CAHNewsVueSetup
 {
-    private static $handle = "cah-news";
+    private static $handle = "cah-news-vue";
 
     public static function setup()
     {
@@ -13,6 +13,9 @@ final class CAHNewsVueSetup
         add_action('wp_enqueue_scripts', [__CLASS__, 'maybeLoadScripts'], 10, 0);
 
         add_shortcode(static::$handle, [__CLASS__, 'shortcode']);
+
+        add_action('wp_ajax_cah-news', [__CLASS__, 'ajax'], 10, 0);
+        add_action('wp_ajax_nopriv_cah-news', [__CLASS__, 'ajax'], 10, 0);
     }
 
     public static function registerScripts()
@@ -21,26 +24,26 @@ final class CAHNewsVueSetup
         $path = CAH_NEWS__PLUGIN_DIR . "/dist";
 
         wp_register_script(
-            static::$handle . "-vue-chunk",
-            "$uri/js/" . static::$handle . "-vue-chunk-vendors.js",
+            static::$handle . "-chunk",
+            "$uri/js/" . static::$handle . "-chunk-vendors.js",
             [],
-            filemtime("$path/js/" . static::$handle . "-vue-chunk-vendors.js"),
+            filemtime("$path/js/" . static::$handle . "-chunk-vendors.js"),
             true
         );
 
         wp_register_script(
-            static::$handle . "-vue-script",
-            "$uri/js/" . static::$handle . "-vue-app.js",
-            [static::$handle . "-vue-chunk"],
-            filemtime("$path/js/" . static::$handle . "-vue-app.js"),
+            static::$handle . "-script",
+            "$uri/js/" . static::$handle . "-app.js",
+            [static::$handle . "-chunk"],
+            filemtime("$path/js/" . static::$handle . "-app.js"),
             true
         );
 
         wp_register_style(
-            static::$handle . "-vue-style",
-            "$uri/css/" . static::$handle . "-vue.css",
+            static::$handle . "-style",
+            "$uri/css/" . static::$handle . ".css",
             [],
-            filemtime("$path/css/" . static::$handle . "-vue.css"),
+            filemtime("$path/css/" . static::$handle . ".css"),
             'all'
         );
     }
@@ -53,23 +56,24 @@ final class CAHNewsVueSetup
         }
 
         if (stripos($post->post_content, "[" . static::$handle) !== false) {
-            wp_enqueue_script(static::$handle . "-vue-script");
+            wp_enqueue_script(static::$handle . "-script");
             wp_localize_script(
-                static::$handle . "-vue-script",
+                static::$handle . "-script",
                 'wpVars',
                 [
                     'restUri' => CAH_NEWS__BASE_URL . "wp-json/wp/v2",
+                    'ajaxUrl' => admin_url('admin-ajax.php'),
                     'wpNonce' => wp_create_nonce('cah-news'),
                 ]
             );
-            wp_enqueue_style(static::$handle . "-vue-style");
+            wp_enqueue_style(static::$handle . "-style");
         }
     }
 
     public static function shortcode($atts = [])
     {
         $atts = shortcode_atts([
-            'dept' => defined('DEPT') ? \DEPT : 11,
+            'dept' => get_option('cah_news_display_dept2', []),
             'limit' => -1,
             'per_page' => 20,
             'view' => 'full',
@@ -113,9 +117,28 @@ final class CAHNewsVueSetup
     {
         if (!isset($_POST['wpNonce'])
             || empty($_POST['wpNonce'])
-            || !check_ajax_referer('cah-news', 'wpNonce')
+            || !check_ajax_referer('cah-news', 'wpNonce', false)
         ) {
             die("Nonce failed to verify");
         }
+
+        $restRequest = html_entity_decode($_POST['restRequest']);
+
+        $restResponse = wp_remote_get($restRequest);
+
+        if (is_wp_error($restResponse)) {
+            error_log($restResponse->get_error_message());
+            die("Error with REST request");
+        }
+
+        $news = json_decode(wp_remote_retrieve_body($restResponse));
+
+        $data = [];
+        foreach ($news as $newsItem) {
+            $data[$newsItem->id] = $newsItem;
+        }
+
+        echo json_encode($data);
+        die;
     }
 }

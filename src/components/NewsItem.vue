@@ -1,13 +1,13 @@
 <template>
-    <div class="col news-item">
+    <div class="col-12 py-2 news-item">
         <a :href="post.link" target="_blank" rel="noopener">
-            <div class="row">
-                <div class="col-3">
+            <div class="news-item-content">
+                <div class="news-thumbnail">
                     <img :src="post.featured_media" :alt="post.title.rendered" :title="post.title.rendered">
                 </div>
-                <div class="col-9">
-                    <h5 class="mt-0">{{ post.title.rendered }}</h5>
-                    <p><span class="news-date">{{ displayDate }}</span> &bull; {{ post.excerpt.rendered }}</p>
+                <div class="news-text">
+                    <h5 class="mt-0" v-html="post.title.rendered" />
+                    <p><span class="news-date text-muted">{{ displayDate }}</span> &bull; {{ post.excerpt.rendered }}</p>
                 </div>
             </div>
         </a>
@@ -40,5 +40,36 @@ const displayDate = computed(() => {
 </script>
 
 <style lang="scss" scoped>
+.news-thumbnail {
+    margin-right: 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 
+    img {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+}
+
+.news-item {
+    a {
+        color: #000;
+        text-decoration: none;
+    }
+
+    &:hover {
+        background-color: #c4cfd4;
+    }
+}
+
+.news-item-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: start;
+}
 </style>
