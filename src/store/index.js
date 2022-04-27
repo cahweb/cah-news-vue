@@ -18,6 +18,7 @@ const state = {
   section_title: "In the News",
   section_title_classes: '',
   button_text: "More News",
+  button_classes: '',
   button_href: '',
   new_tab: false,
   tags: '',
