@@ -50,11 +50,9 @@ final class CAHNewsVueSetup
 
     public static function maybeLoadScripts()
     {
-        global $post;
+        global $wp_query;
 
-        if (is_front_page()) {
-            $post = get_post(get_option('page_on_front'));
-        }
+        $post = $wp_query->get_queried_object();
 
         if (!isset($post) || !is_object($post)) {
             return;
@@ -72,10 +70,6 @@ final class CAHNewsVueSetup
                 ]
             );
             wp_enqueue_style(static::$handle . "-style");
-        }
-
-        if (is_front_page()) {
-            wp_reset_postdata();
         }
     }
 
