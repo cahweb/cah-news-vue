@@ -63,7 +63,7 @@ final class CAHNewsVueSetup
         if (stripos($postContent, "[" . static::$handle) !== false) {
             static::loadScripts();
         } elseif (stripos($postContent, "[ucf-section") !== false
-            && preg_match_all('/\[ucf-section[^\]]+slug="([\w_-]+)".*\]/', $postContent, $matches, PREG_PATTERN_ORDER)
+            && preg_match_all('/\[ucf-section[^\]]+slug=[\'"]([\w_-]+)[\'"].*\]/', $postContent, $matches, PREG_PATTERN_ORDER)
         ) {
             if (isset($matches[1]) && !empty($matches[1])) {
                 foreach ($matches[1] as $match) {
