@@ -50,26 +50,29 @@ final class CAHNewsVueSetup
 
     public static function maybeLoadScripts()
     {
+        $postContent = '';
+
         global $wp_query;
+        $postObj = $wp_query->get_queried_object();
 
-        $post = $wp_query->get_queried_object();
-
-        if (!isset($post) || !is_object($post)) {
-            return;
+        if (isset($postObj)) {
+            $postContent = $postObj->post_content;
         }
 
-        if (stripos($post->post_content, "[" . static::$handle) !== false) {
-            wp_enqueue_script(static::$handle . "-script");
-            wp_localize_script(
-                static::$handle . "-script",
-                'wpVars',
-                [
-                    'restUri' => CAH_NEWS__BASE_URL . "wp-json/wp/v2",
-                    'ajaxUrl' => admin_url('admin-ajax.php'),
-                    'wpNonce' => wp_create_nonce('cah-news'),
-                ]
-            );
-            wp_enqueue_style(static::$handle . "-style");
+
+        if (stripos($postContent, "[" . static::$handle) !== false) {
+            static::loadScripts();
+        } elseif (stripos($postContent, "[ucf-section") !== false
+            && preg_match_all('/\[ucf-section[^\]]+slug="([\w_-]+)".*\]/', $postContent, $matches, PREG_PATTERN_ORDER)
+        ) {
+            if (isset($matches[1]) && !empty($matches[1])) {
+                foreach ($matches[1] as $match) {
+                    if (stripos($match, 'news') !== false) {
+                        static::loadScripts();
+                        break;
+                    }
+                }
+            }
         }
     }
 
@@ -143,5 +146,20 @@ final class CAHNewsVueSetup
 
         echo json_encode($data);
         die;
+    }
+
+    private static function loadScripts()
+    {
+        wp_enqueue_script(static::$handle . "-script");
+        wp_localize_script(
+            static::$handle . "-script",
+            'wpVars',
+            [
+                'restUri' => CAH_NEWS__BASE_URL . "wp-json/wp/v2",
+                'ajaxUrl' => admin_url('admin-ajax.php'),
+                'wpNonce' => wp_create_nonce('cah-news'),
+            ]
+        );
+        wp_enqueue_style(static::$handle . "-style");
     }
 }
