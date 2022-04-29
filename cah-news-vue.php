@@ -3,7 +3,7 @@
  * Plugin Name: CAH News (Vue Version)
  * Description: A reimagining of the CAH News plugin as a Vue application, pushing the information-acquisition step back until after page load.
  * Author: Mike W. Leavitt
- * Version: 0.0.1
+ * Version: 1.0.0
  */
 declare(strict_types = 1);
 
