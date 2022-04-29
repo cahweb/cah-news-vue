@@ -157,6 +157,7 @@ final class CAHNewsVueSetup
             [
                 'restUri' => CAH_NEWS__BASE_URL . "wp-json/wp/v2",
                 'ajaxUrl' => admin_url('admin-ajax.php'),
+                'pluginUri' => CAH_NEWS__PLUGIN_URI,
                 'wpNonce' => wp_create_nonce('cah-news'),
             ]
         );

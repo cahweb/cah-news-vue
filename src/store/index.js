@@ -7,7 +7,9 @@ import axios from 'axios'
 const state = {
   restUri: wpVars.restUri,
   ajaxUrl: wpVars.ajaxUrl,
+  pluginUri: wpVars.pluginUri,
   nonce: wpVars.wpNonce,
+  isLoaded: false,
   news: {},
   dept: 11,
   limit: -1,
@@ -87,6 +89,7 @@ export default createStore({
         .then(response => response.data)
 
       commit('updateState', {name: 'news', value: resp})
+      commit('updateState', {name: 'isLoaded', value: true})
     },
     async doInit({dispatch}) {
       await dispatch('getOptions')
