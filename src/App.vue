@@ -3,7 +3,7 @@
     <h2 class="mb-3" :class="headerClasses || 'h1'">{{ store.state.section_title }}</h2>
     <NewsDisplay v-if="isLoaded" />
     <div v-else class="row">
-      <div class="col-3 col-md-2 col-lg-1 mx-auto">
+      <div class="col-3 col-md-2 col-lg-1 mx-auto mb-4">
         <div class="spin" :style="spinCssObj">
         </div>
       </div>
