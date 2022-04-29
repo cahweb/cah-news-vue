@@ -1,16 +1,14 @@
 <template>
-  <div v-if="isLoaded" class="container">
+  <div class="container">
     <h2 class="mb-3" :class="headerClasses || 'h1'">{{ store.state.section_title }}</h2>
-    <NewsDisplay />
-    <a :href="store.state.button_href" target="_blank" rel="noopener" class="btn btn-primary mt-2" :class="buttonClasses">{{ store.state.button_text }}</a>
-  </div>
-  <div v-else class="container">
-    <div class="row">
+    <NewsDisplay v-if="isLoaded" />
+    <div v-else class="row">
       <div class="col-3 col-md-2 col-lg-1 mx-auto">
         <div class="spin" :style="spinCssObj">
         </div>
       </div>
     </div>
+    <a :href="store.state.button_href" target="_blank" rel="noopener" class="btn btn-primary mt-2" :class="buttonClasses">{{ store.state.button_text }}</a>
   </div>
 </template>
 
