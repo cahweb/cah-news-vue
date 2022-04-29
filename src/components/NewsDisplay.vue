@@ -1,6 +1,8 @@
 <template>
     <div class="row">
-        <NewsItem v-for="(id, i) of store.getters.displayList" :key="i" :id="id" />
+        <TransitionGroup name="fadeIn" appear>
+            <NewsItem v-for="(id, i) of store.getters.displayList" :key="i" :id="id" />
+        </TransitionGroup>
     </div>
 </template>
 
@@ -13,5 +15,13 @@ const store = useStore()
 </script>
 
 <style lang="scss" scoped>
+.fadeIn-enter-active,
+.fadeIn-leave-active {
+    transition: opacity 1s ease;
+}
 
+.fadeIn-enter-from,
+.fadeIn-leave-to {
+    opacity: 0;
+}
 </style>
