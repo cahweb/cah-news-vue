@@ -7,7 +7,7 @@
                 </div>
                 <div class="news-text">
                     <h5 class="mt-0" v-html="post.title.rendered" />
-                    <p><span class="news-date text-muted">{{ displayDate }}</span> &bull; {{ post.excerpt.rendered }}</p>
+                    <p><span class="news-date text-muted">{{ displayDate }}</span> &bull; {{ specCharDecode(post.excerpt.rendered) }}</p>
                 </div>
             </div>
         </a>
@@ -36,6 +36,10 @@ const displayDate = computed(() => {
 
     return date.toLocaleDateString('en-us', {year: 'numeric', day: 'numeric', month: 'short'})
 })
+
+function specCharDecode(inputStr) {
+    return inputStr.replace(/(&#(\d+);)/g, (match, capture, charCode) => String.fromCharCode(charCode))
+}
 
 </script>
 
