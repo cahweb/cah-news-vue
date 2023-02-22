@@ -73,7 +73,7 @@ function specCharDecode(inputStr) {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-around;
+    justify-content: flex-start;
     align-items: start;
 }
 </style>
