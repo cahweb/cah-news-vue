@@ -27,7 +27,8 @@ final class CAHNewsVueSetup
             static::$handle . "-chunk",
             "$uri/js/" . static::$handle . "-chunk-vendors.js",
             [],
-            filemtime("$path/js/" . static::$handle . "-chunk-vendors.js"),
+            // filemtime("$path/js/" . static::$handle . "-chunk-vendors.js"),
+            time(),
             true
         );
 
@@ -35,7 +36,8 @@ final class CAHNewsVueSetup
             static::$handle . "-script",
             "$uri/js/" . static::$handle . "-app.js",
             [static::$handle . "-chunk"],
-            filemtime("$path/js/" . static::$handle . "-app.js"),
+            // filemtime("$path/js/" . static::$handle . "-app.js"),
+            time(),
             true
         );
 
