@@ -11,7 +11,7 @@ declare(strict_types = 1);
 define('CAH_NEWS__PLUGIN_FILE', __FILE__);
 define('CAH_NEWS__PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('CAH_NEWS__PLUGIN_URI', plugin_dir_url(__FILE__));
-define('CAH_NEWS__BASE_URL', 'https://news.cah.ucf.edu/');
+define('CAH_NEWS__BASE_URL', 'https://cah.ucf.edu/news/');
 
 require_once "includes/cah-news-vue-setup.php";
 
