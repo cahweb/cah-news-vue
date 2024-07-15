@@ -89,7 +89,7 @@ final class CAHNewsVueSetup
             'section_title_classes' => '',
             'button_text' => "More News",
             'button_classes' => '',
-            'button_href' => 'https://news.cah.ucf.edu/newsroom',
+            'button_href' => 'https://cah.ucf.edu/news//newsroom',
             'new_tab' => false,
             'tags' => '',
         ], $atts);
